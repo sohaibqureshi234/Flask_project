@@ -27,3 +27,6 @@ instance/
 
 # MacOS
 .DS_Store
+flask_task_app/
+venv/
+__pycache__/
