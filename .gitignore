@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Flask / general
+instance/
+*.sqlite3
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# MacOS
+.DS_Store
